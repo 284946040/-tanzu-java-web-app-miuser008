@@ -12,7 +12,7 @@ spec:
     value:
       autoscaling.knative.dev/minScale: "1"
   source:
-    git:
-      url: <https URL for your generated project's Git repository>
+    git: 
+      url: https://github.com/284946040/tanzu-java-web-app-miuser008
       ref:
         branch: main
